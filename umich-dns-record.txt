@@ -1,0 +1,6 @@
+Name                                           Type   TTL   Section    IPAddress
+----                                           ----   ---   -------    ---------
+UMICH.edu                                      AAAA   1386  Answer     2a06:98c1:58::25
+UMICH.edu                                      AAAA   1386  Answer     2606:4700:7::25
+umich.edu                                      A      765   Answer     162.159.140.37
+umich.edu                                      A      765   Answer     172.66.0.37
